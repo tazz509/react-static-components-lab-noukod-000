@@ -1,5 +1,5 @@
 // This script is an altered version of the CodePen made by 'Captain Anonymous': https://codepen.io/anon/pen/jKQoaj
-import React, { Component } from 'react';
+
 
 const rippleSettings = {
   maxSize: 100,
